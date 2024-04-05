@@ -189,6 +189,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   1 Jidaire Drive, G.R.A, Sapele Road, Benin City.
 - ArkiTechton Labs
   12, Ogbenede St, Off M.M. Way, Benin City
+- [Decipher Innovate](https://decipherinnovate.com/)
+  4 Church Avenue, Opposite Adesuwa Junction, Sapele Road, Benin City, Edo State.
+- [Ehizua Hub](https://ehizuahub.com/)
+
+  - 83 Airport Road, Opposite Glass House, Benin City, Edo State.
+  - Sir, (Dr) David Osunde Centre for Entrepreneurship and skill acquisition (EPS), IUO Main Campus, Mission Road, Okada, Edo State.
+
 
 ## Enugu
 
@@ -408,6 +415,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Zonetech Park](https://zonetechpark.co/)
   Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway, Lagos State.
 
+- [Ehizua Hub](https://ehizuahub.com/)
+  6, Hon Fatai Eletu Street, Container Bus Stop, Awoyaya, Lekki
+
 ## Makurdi
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
@@ -529,6 +539,9 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Tech Creek](https://www.techcreek.ng)
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
+
+- [Loctech Training Institute](https://www.loctech.com.ng/)
+  4A Etim Okpoyo Close, By Aba Express Road, Rumuola, Port Harcourt, Rivers
 
 ## Sokoto
   
